@@ -1,0 +1,5 @@
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Assignment_Tuple\bin\Debug\Assignment_Tuple.exe.config
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Assignment_Tuple\bin\Debug\Assignment_Tuple.exe
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Assignment_Tuple\bin\Debug\Assignment_Tuple.pdb
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Assignment_Tuple\obj\Debug\Assignment_Tuple.exe
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Assignment_Tuple\obj\Debug\Assignment_Tuple.pdb
