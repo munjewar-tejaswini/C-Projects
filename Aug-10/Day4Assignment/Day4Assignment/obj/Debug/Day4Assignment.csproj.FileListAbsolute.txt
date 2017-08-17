@@ -1,0 +1,6 @@
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.exe.config
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.exe
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.pdb
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.csprojResolveAssemblyReference.cache
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.exe
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.pdb

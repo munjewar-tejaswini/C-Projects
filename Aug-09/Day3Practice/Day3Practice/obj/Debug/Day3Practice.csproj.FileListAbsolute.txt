@@ -1,0 +1,6 @@
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day3Practice\Day3Practice\bin\Debug\Day3Practice.exe.config
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day3Practice\Day3Practice\bin\Debug\Day3Practice.exe
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day3Practice\Day3Practice\bin\Debug\Day3Practice.pdb
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day3Practice\Day3Practice\obj\Debug\Day3Practice.csprojResolveAssemblyReference.cache
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day3Practice\Day3Practice\obj\Debug\Day3Practice.exe
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day3Practice\Day3Practice\obj\Debug\Day3Practice.pdb

@@ -1,0 +1,6 @@
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\RemoveVovel\bin\Debug\RemoveVovel.exe.config
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\RemoveVovel\bin\Debug\RemoveVovel.exe
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\RemoveVovel\bin\Debug\RemoveVovel.pdb
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\RemoveVovel\obj\Debug\RemoveVovel.exe
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\RemoveVovel\obj\Debug\RemoveVovel.pdb
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\RemoveVovel\obj\Debug\RemoveVovel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\LambdaOperations\bin\Debug\LambdaOperations.exe.config
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\LambdaOperations\bin\Debug\LambdaOperations.exe
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\LambdaOperations\bin\Debug\LambdaOperations.pdb
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\LambdaOperations\obj\Debug\LambdaOperations.csprojResolveAssemblyReference.cache
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\LambdaOperations\obj\Debug\LambdaOperations.exe
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\LambdaOperations\obj\Debug\LambdaOperations.pdb

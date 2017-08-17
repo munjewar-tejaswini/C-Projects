@@ -1,0 +1,5 @@
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day2Assignment\Assignment8\bin\Debug\Assignment8.exe.config
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day2Assignment\Assignment8\bin\Debug\Assignment8.exe
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day2Assignment\Assignment8\bin\Debug\Assignment8.pdb
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day2Assignment\Assignment8\obj\Debug\Assignment8.exe
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Day2Assignment\Assignment8\obj\Debug\Assignment8.pdb

@@ -1,0 +1,6 @@
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Aug-17\bin\Debug\Aug-17.exe.config
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Aug-17\bin\Debug\Aug-17.exe
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Aug-17\bin\Debug\Aug-17.pdb
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Aug-17\obj\Debug\Aug-17.csprojResolveAssemblyReference.cache
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Aug-17\obj\Debug\Aug-17.exe
+c:\users\munjewar_t\documents\visual studio 2015\Projects\Aug-17\Aug-17\obj\Debug\Aug-17.pdb

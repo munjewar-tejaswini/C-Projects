@@ -1,0 +1,6 @@
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\ImplementEvents\obj\Debug\Events.csprojResolveAssemblyReference.cache
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\ImplementEvents\bin\Debug\ImplementEvents.exe.config
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\ImplementEvents\bin\Debug\ImplementEvents.exe
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\ImplementEvents\bin\Debug\ImplementEvents.pdb
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\ImplementEvents\obj\Debug\ImplementEvents.exe
+c:\Users\munjewar_t\documents\visual studio 2015\Projects\Aug-16\ImplementEvents\obj\Debug\ImplementEvents.pdb
