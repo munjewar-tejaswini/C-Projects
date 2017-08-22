@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_StringBuilder
+namespace Aug_21
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            
-            Console.ReadLine();
         }
     }
 }
