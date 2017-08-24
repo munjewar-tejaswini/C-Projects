@@ -3,3 +3,6 @@ c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\Assignment4\bin\D
 c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\Assignment4\bin\Debug\Assignment4.pdb
 c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\Assignment4\obj\Debug\Assignment4.exe
 c:\Users\munjewar_t\documents\visual studio 2015\Projects\Day4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\munjewar_t\Documents\Visual Studio 2015\Projects\Aug-10\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\munjewar_t\Documents\Visual Studio 2015\Projects\Aug-10\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\munjewar_t\Documents\Visual Studio 2015\Projects\Aug-10\Assignment4\obj\Debug\Assignment4.pdb

@@ -1,0 +1,1 @@
+﻿insert into [Table] values(11,'Sita', 79, 1245789632)

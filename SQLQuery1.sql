@@ -1,0 +1,1 @@
+﻿select * from [Table] /*table is keyword so use [] to fetch the data*/
